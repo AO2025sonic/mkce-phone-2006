@@ -1,0 +1,60 @@
+{
+    "name": "MKCE Phone 2006",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Custom Systemmenu Options": "github:meeeeeeeep1/custom-systemmenu-options#55a5f850d6debf3fa843202a6cd96b5004f8eb23",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8",
+        "browser-events": "*",
+        "arcade-fake-button-press": "github:riknoll/arcade-fake-button-press#v0.0.5",
+        "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "radio-broadcast": "*",
+        "Notifications": "github:UnsignedArduino/Notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "pxt-clock": "github:blobbey2000/pxt-clock#v1.10.4",
+        "sevenseg": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Makey Makey Keymappings": "github:joylabz/makeymakey-makecode-arcade-extension#1.0.3",
+        "Custom Keybind Extension": "github:brohann3214/custom-keybnid-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FAFAFA",
+        "#FF004D",
+        "#FF77A8",
+        "#FFA300",
+        "#FFEC27",
+        "#008751",
+        "#00E436",
+        "#29ADFF",
+        "#C2C3C7",
+        "#7E2553",
+        "#83769C",
+        "#5F574F",
+        "#FFCCAA",
+        "#AB5236",
+        "#000000"
+    ]
+}
